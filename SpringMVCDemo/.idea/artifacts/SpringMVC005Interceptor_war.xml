@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringMVC005Interceptor:war">
+    <output-path>$PROJECT_DIR$/../SpringMVC005Interceptor/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>SpringMVC005Interceptor</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="SpringMVC005Interceptor.war">
+      <element id="artifact" artifact-name="SpringMVC005Interceptor:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,38 @@
+
+isquid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(ÖÇ¨Ñ8õÔ½¸¡.
+[
+squid:S1068"9Replace this use of System.out or System.err by a logger.(º¦˜éüÿÿÿÿ8á©§·¡.
+fsquid:S1192"HDefine a constant instead of duplicating this literal "success" 9 times.(ùØ8†©ñµ¡.
+[
+squid:S1061"9Replace this use of System.out or System.err by a logger.(º¦˜éüÿÿÿÿ8•±¹¡.
+[
+squid:S1062"9Replace this use of System.out or System.err by a logger.(þßÛšøÿÿÿÿ8á©§·¡.
+V
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ö¡¹ê8†©ñµ¡.
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.(º¦˜éüÿÿÿÿ8†©ñµ¡.
+nsquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(‡Ö¼Þÿÿÿÿÿ8õÔ½¸¡.
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(º¦˜éüÿÿÿÿ8ýé´¡.
+V
+squid:S1069"9Replace this use of System.out or System.err by a logger.(Ø¼¢ƒ8–ÃŸ¸¡.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(º¦˜éüÿÿÿÿ8Þ‘Æ·¡.
+[
+squid:S106I"9Replace this use of System.out or System.err by a logger.(…½”Ëùÿÿÿÿ8†ñ½¸¡.
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŠÄë8†Âµ¡.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(­ ‘ˆüÿÿÿÿ8­³’´¡.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(º¦˜éüÿÿÿÿ8¬¿¹¡.
+[
+squid:S106T"9Replace this use of System.out or System.err by a logger.(º¦˜éüÿÿÿÿ8†Âµ¡.
+[
+squid:S106\"9Replace this use of System.out or System.err by a logger.(º¦˜éüÿÿÿÿ8í¾·¡.
+U
+squid:S106^"9Replace this use of System.out or System.err by a logger.(‚š‰18„áµ¹¡.
+[
+squid:S106d"9Replace this use of System.out or System.err by a logger.(º¦˜éüÿÿÿÿ8çÏÎ¸¡.
+U
+squid:S106+"9Replace this use of System.out or System.err by a logger.(ì«”x8í¾·¡.

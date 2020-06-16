@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../SpringMVC000/SpringMVC000.iml" filepath="$PROJECT_DIR$/../SpringMVC000/SpringMVC000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringMVC001start/SpringMVC001start.iml" filepath="$PROJECT_DIR$/../SpringMVC001start/SpringMVC001start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringMVC002resp/SpringMVC002resp.iml" filepath="$PROJECT_DIR$/../SpringMVC002resp/SpringMVC002resp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringMVC003file1/SpringMVC003file1.iml" filepath="$PROJECT_DIR$/../SpringMVC003file1/SpringMVC003file1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringMVC003fileserver/SpringMVC003fileserver.iml" filepath="$PROJECT_DIR$/../SpringMVC003fileserver/SpringMVC003fileserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringMVC004Exception/SpringMVC004Exception.iml" filepath="$PROJECT_DIR$/../SpringMVC004Exception/SpringMVC004Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringMVC005Interceptor/SpringMVC005Interceptor.iml" filepath="$PROJECT_DIR$/../SpringMVC005Interceptor/SpringMVC005Interceptor.iml" />
+    </modules>
+  </component>
+</project>

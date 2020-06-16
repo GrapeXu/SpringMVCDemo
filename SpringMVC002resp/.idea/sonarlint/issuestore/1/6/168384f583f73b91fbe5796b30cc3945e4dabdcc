@@ -1,0 +1,18 @@
+
+[
+squid:S106J"9Replace this use of System.out or System.err by a logger.(¦â†³øÿÿÿÿ8ìÞ³Ã¡.
+hsquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(‘—·(8«¡¤¾¡.
+V
+squid:S106["9Replace this use of System.out or System.err by a logger.(Ø¼¢ƒ8Ã‰§Û¡.
+V
+squid:S106X"9Replace this use of System.out or System.err by a logger.(‚¬ÊÙ8½¦ŸÛ¡.
+9squid:S3626/"Remove this redundant jump.(ûÁÝ…8˜÷§¾¡.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(×æïž8¶œƒ¼¡.
+V
+squid:S1064"9Replace this use of System.out or System.err by a logger.(¼ä“³8²¸œÁ¡.
+nsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(±ü Ìúÿÿÿÿ8«¡¤¾¡.
+nsquid:CommentedOutCodeLineM"<This block of commented-out lines of code should be removed.(Î½ŽÓÿÿÿÿÿ8€†öÃ¡.
+¯%squid:RedundantThrowsDeclarationCheck""wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(•³õ‚8«¡¤¾¡.
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(äíÝŸþÿÿÿÿ8©Ã‚½¡.

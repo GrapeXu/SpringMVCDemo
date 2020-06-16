@@ -1,0 +1,17 @@
+
+V
+squid:S106F"9Replace this use of System.out or System.err by a logger.(ÍÎÉ 8Óú™æ¡.
+Ssquid:S1191"5Use classes from the Java API instead of Sun classes.(±´ú8§ˆÜæ¡.
+fsquid:S1192;"HDefine a constant instead of duplicating this literal "success" 3 times.(ùØ8Ùÿºæ¡.
+esquid:S00112\"FDefine and throw a dedicated exception instead of using a generic one.(´ë8Ùÿºæ¡.
+9squid:S16433"Use a StringBuilder instead.(³½e8Ê©æ¡.
+[
+squid:S106]"9Replace this use of System.out or System.err by a logger.(ïÌ‘Şşÿÿÿÿ8Ùÿºæ¡.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÍÎÉ 8Ê©æ¡.
+dsquid:S1075`"ARefactor your code to get this URI from a customizable parameter.(á“­üÿÿÿÿ8ë‰Çæ¡.
+esquid:S00112?"FDefine and throw a dedicated exception instead of using a generic one.(èãöÍ8Óú™æ¡.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªèÕ8Ê©æ¡.
+V
+squid:S106@"9Replace this use of System.out or System.err by a logger.(ı•–8Óú™æ¡.

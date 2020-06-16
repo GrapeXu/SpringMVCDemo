@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpringMVC005Interceptor" />
+        <module name="SpringMVC004Exception" />
+        <module name="SpringMVC000" />
+        <module name="SpringMVC002resp" />
+        <module name="SpringMVC003fileserver" />
+        <module name="SpringMVC003file1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SpringMVC000" target="1.8" />
+      <module name="SpringMVC001start" target="1.8" />
+      <module name="SpringMVC002resp" target="1.8" />
+      <module name="SpringMVC003file1" target="1.8" />
+      <module name="SpringMVC003fileserver" target="1.7" />
+      <module name="SpringMVC004Exception" target="1.8" />
+      <module name="SpringMVC005Interceptor" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
